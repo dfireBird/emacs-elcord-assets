@@ -5,13 +5,59 @@ A neat set of programming logos for vain discord rich presence.
 
 * Table of Contents :toc:
 - [[#usage][Usage]]
+  - [[#understanding-what-it-is][Understanding what it is]]
+  - [[#utilizing-it][Utilizing it]]
+  - [[#extending-to-other-editors][Extending to Other Editors]]
 - [[#code-of-conduct][Code of Conduct]]
 - [[#contributing][Contributing]]
 - [[#license][License]]
 
 * Usage
 
-  WIP :shipit:
+** Understanding what it is
+
+   This repository contains assets which is manually synced with a discord
+   application regularly. It is meant to be used with [[https://github.com/Mstrodl/elcord][elcord]], though it should
+   work with any editor's rich presence plugin.
+
+** Utilizing it
+   Set =elcord-client-id= to =714056771391717468=.
+
+   You'll have to change =elcord-mode-icon-alist= like so:
+
+   #+begin_src emacs-lisp
+(setq elcord-mode-icon-alist '((c-mode           .  "c-mode_icon")
+                               (cpp-mode         .  "cpp-mode_icon")
+                               (csharp-mode      .  "csharp-mode_icon")
+                               (css-mode         .  "css-mode_icon")
+                               (emacs            .  "emacs_icon")
+                               (go-mode          .  "go-mode_icon")
+                               (haskell-mode     .  "haskell-mode_icon")
+                               (html-mode        .  "html-mode_icon")
+                               (java-mode        .  "java-mode_icon")
+                               (javascript-mode  .  "javascript-mode_icon")
+                               (kotlin-mode      .  "kotlin-mode_icon")
+                               (lua-mode         .  "lua-mode_icon")
+                               (magit-mode       .  "magit-mode_icon")
+                               (markdown-mode    .  "markdown-mode_icon")
+                               (nim-mode         .  "nim-mode_icon")
+                               (org-mode         .  "org-mode_icon")
+                               (php-mode         .  "php-mode_icon")
+                               (python-mode      .  "python-mode_icon")
+                               (r-mode           .  "r-mode_icon")
+                               (ruby-mode        .  "ruby-mode_icon")
+                               (rust-mode        .  "rust-mode_icon")
+                               (swift-mode       .  "swift-mode")))
+
+
+   #+end_src
+
+** TODO Extending to Other Editors
+
+   As mentioned before, it should be easy enough to use these assets in other
+   editors.
+
+   [WIP]
 
 * Code of Conduct
 
