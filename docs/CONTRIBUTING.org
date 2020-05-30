@@ -10,7 +10,7 @@ First thing's first: Thanks for taking the time to contribute! :tada:
 
 * Regulations
 
-  There aren't many rules, but you *must* ensure images used are not allowed by
+  There aren't many rules, but you *must* ensure images used are allowed by
   their respective authors. If using a copyrighted image, the image's license
   should be compatible, or you must obtain express permission.
 
