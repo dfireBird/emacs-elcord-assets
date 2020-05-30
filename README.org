@@ -1,0 +1,27 @@
+#+TITLE: emacs-elcord-assets
+#+STARTUP: overview
+
+A neat set of programming logos for vain discord rich presence.
+
+* Table of Contents :toc:
+- [[#usage][Usage]]
+- [[#code-of-conduct][Code of Conduct]]
+- [[#contributing][Contributing]]
+- [[#license][License]]
+
+* Usage
+
+  WIP :shipit:
+
+* Code of Conduct
+
+  Follow our [[file:docs/CODE_OF_CONDUCT.md][code of conduct]] to help maintain a healthy community.
+
+* Contributing
+
+  Feel free to open a pull request, check our [[file:docs/CONTRIBUTING.org][contributing guide]] for more
+  details.
+
+* License
+
+  This project uses a CC-BY-4.0 license, which can be viewed [[file:LICENSE.org][here]].
