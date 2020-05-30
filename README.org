@@ -34,8 +34,10 @@ A neat set of programming logos for vain discord rich presence.
                                (go-mode          .  "go-mode_icon")
                                (haskell-mode     .  "haskell-mode_icon")
                                (html-mode        .  "html-mode_icon")
+			       (web-mode         .  "html-mode_icon")
                                (java-mode        .  "java-mode_icon")
                                (javascript-mode  .  "javascript-mode_icon")
+			       (js-mode          .  "javascript-mode_icon")
                                (kotlin-mode      .  "kotlin-mode_icon")
                                (lua-mode         .  "lua-mode_icon")
                                (magit-mode       .  "magit-mode_icon")
@@ -47,7 +49,9 @@ A neat set of programming logos for vain discord rich presence.
                                (r-mode           .  "r-mode_icon")
                                (ruby-mode        .  "ruby-mode_icon")
                                (rust-mode        .  "rust-mode_icon")
-                               (swift-mode       .  "swift-mode")))
+			       (rustic-mode      .  "rust-mode_icon")
+                               (swift-mode       .  "swift-mode_icon")
+			       (typescript       .  "typescript-mode_icon")))
 
 
    #+end_src
