@@ -1,0 +1,21 @@
+#+TITLE: Contributing to emacs-elcord-assets
+#+STARTUP: overview
+
+First thing's first: Thanks for taking the time to contribute! :tada:
+
+
+* Table of Contents :toc:
+- [[#regulations][Regulations]]
+- [[#image-recommendations][Image Recommendations]]
+
+* Regulations
+
+  There aren't many rules, but you *must* ensure images used are not allowed by
+  their respective authors. If using a copyrighted image, the image's license
+  should be compatible, or you must obtain express permission.
+
+* Image Recommendations
+
+  Images should be 1024x1024 recommended, 512x512 minimum.
+
+  We'd love it if images were PNGs, to avoid unnecessary backgrounds.
