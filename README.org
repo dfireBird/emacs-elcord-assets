@@ -31,6 +31,7 @@ A neat set of programming logos for vain discord rich presence.
                                (csharp-mode      .  "csharp-mode_icon")
                                (css-mode         .  "css-mode_icon")
                                (emacs            .  "emacs_icon")
+			       (gdscript-mode    .  "gdscript-mode_icon")
                                (go-mode          .  "go-mode_icon")
                                (haskell-mode     .  "haskell-mode_icon")
                                (html-mode        .  "html-mode_icon")
@@ -50,6 +51,7 @@ A neat set of programming logos for vain discord rich presence.
                                (ruby-mode        .  "ruby-mode_icon")
                                (rust-mode        .  "rust-mode_icon")
 			       (rustic-mode      .  "rust-mode_icon")
+			       (sh-mode          .  "sh-mode_icon")
                                (swift-mode       .  "swift-mode_icon")
 			       (typescript       .  "typescript-mode_icon")))
 
