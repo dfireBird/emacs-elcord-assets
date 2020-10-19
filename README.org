@@ -35,6 +35,7 @@ A neat set of programming logos for vain discord rich presence.
                                (emacs            .  "emacs_icon")
                                (gdscript-mode    .  "gdscript-mode_icon")
                                (go-mode          .  "go-mode_icon")
+                               (graphql-mode     .  "graphql-mode_icon")
                                (haskell-mode     .  "haskell-mode_icon")
                                (html-mode        .  "html-mode_icon")
                                (web-mode         .  "html-mode_icon")
